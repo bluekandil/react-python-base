@@ -31,7 +31,7 @@ python server.py
 ```
 cd C:\projects\react-python-boilerplate\front-end
 npm install
-npm start
+npm run dev
 ```
 
 This should open http://localhost:5173/ in your browser.
